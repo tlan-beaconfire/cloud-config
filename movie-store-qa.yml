@@ -6,4 +6,4 @@ server:
   port: 7777
 
 user:
-  role: QA_movie123
+  role: QA_movie hello world
